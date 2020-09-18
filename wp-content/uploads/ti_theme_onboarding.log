@@ -1,0 +1,15 @@
+[02/Sep/2020:03:05:18] (ℹ️): WordPress Instance Info:
+[02/Sep/2020:03:05:18] (ℹ️): Home URL : http://localhost/membership
+[02/Sep/2020:03:05:18] (ℹ️): Site URL : http://localhost/membership
+[02/Sep/2020:03:05:18] (ℹ️): WordPress Version : 5.5.1
+[02/Sep/2020:03:05:18] (ℹ️): Onboarding Version : 1.8.3
+[02/Sep/2020:03:05:18] (ℹ️): Multisite : No
+[02/Sep/2020:03:05:18] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+[02/Sep/2020:03:05:18] (ℹ️): PHP Version : 7.3.8
+[02/Sep/2020:03:05:18] (ℹ️): HTTPS : No
+[02/Sep/2020:03:05:18] (ℹ️): PHP Max Execution Time : 30
+[02/Sep/2020:03:05:18] (ℹ️): PHP Max Input Vars : 1000
+[02/Sep/2020:03:05:18] (ℹ️): Max Upload Size : 6291456
+[02/Sep/2020:03:05:18] (ℹ️): Plugins:
+[02/Sep/2020:03:05:18] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.16 (Themeisle)
+[02/Sep/2020:03:05:18] (ℹ️): [PLUGIN] WPForms Lite : v1.6.2.2 (WPForms)
